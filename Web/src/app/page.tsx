@@ -1,4 +1,4 @@
-import HouseholdCodeForm from "@/components/HouseholdCodeForm";
+import HouseholdCodeForm from "../components/HouseholdCodeForm";
 
 export default function Home() {
   return (
